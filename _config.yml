@@ -1,0 +1,14 @@
+layout_spectrum: 0.645564271369949
+typography_spectrum: 0.39246691134758294
+color:
+  brandStrength: 0.16027702530846
+  lightness: 0.6509836588520557
+  saturation: 0.04146058205515146
+  rhythmicContrast: 0.6691835338715464
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: dGrid
