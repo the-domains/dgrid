@@ -6,9 +6,9 @@ color:
   saturation: 0.04146058205515146
   rhythmicContrast: 0.6691835338715464
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
 name: dGrid
